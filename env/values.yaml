@@ -22,3 +22,8 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
+...
+jenkinsx-istio-canary-python-test:
+  canary:
+    enabled: true
+    host: jenkinsx-istio-canary-python-test.34.90.118.22.nip.io
