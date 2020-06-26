@@ -22,7 +22,6 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
-...
 jenkinsx-istio-canary-jxpy:
   canary:
     enabled: true
