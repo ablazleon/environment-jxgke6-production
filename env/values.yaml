@@ -23,7 +23,7 @@ jenkins:
     Global: {}
 prow: {}
 ...
-jenkinsx-istio-canary-python-test:
+jenkinsx-istio-canary-jxpy:
   canary:
     enabled: true
-    host: jenkinsx-istio-canary-python-test.34.90.118.22.nip.io
+    host: jenkinsx-istio-canary-jxpy.34.90.118.22.nip.io
